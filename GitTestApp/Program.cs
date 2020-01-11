@@ -11,6 +11,7 @@ namespace GitTestApp
         static void Main(string[] args)
         {
             Console.WriteLine("Server edited Welcome");
+            Console.WriteLine("Welcome");
         }
     }
 }
