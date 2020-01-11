@@ -12,6 +12,7 @@ namespace GitTestApp
         {
             Console.WriteLine("Server edited Welcome");
             Console.WriteLine("Welcome");
+            Console.WriteLine("Feature 3");
         }
     }
 }
